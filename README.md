@@ -6,3 +6,6 @@ How I learned from ML courses
 https://github.com/codingforentrepreneurs/Try-Django/blob/master/src/products/models.py 
 
 https://github.com/academind/django-practical-guide-course-code/tree/summary-14-finished
+
+##admin
+https://www.youtube.com/watch?v=rxai34qeBcc&ab_channel=JustDjango
